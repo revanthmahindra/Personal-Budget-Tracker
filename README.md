@@ -29,5 +29,6 @@ Edit transactions directly from the ledger.
 Click "Download Ledger as Excel" to save your data.
 
 # Installation
-1. Clone the repository: https://github.com/revanthmahindra/Personal-Budget-Tracker.git
+1. Clone the repository:
+    git clone https://github.com/revanthmahindra/Personal-Budget-Tracker.git
 2. Open index.html in your web browser to start using the application.
