@@ -24,7 +24,10 @@ Click "Add Transaction" to log the entry.
 The "Income vs Expenses" chart shows trends over time.
 
 # Manage Ledger:
-
 View all transactions in the ledger.
 Edit transactions directly from the ledger.
 Click "Download Ledger as Excel" to save your data.
+
+# Installation
+1. Clone the repository: https://github.com/revanthmahindra/Personal-Budget-Tracker.git
+2. Open index.html in your web browser to start using the application.
