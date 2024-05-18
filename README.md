@@ -2,7 +2,7 @@
 Personal Budget Tracker is a web application designed to help users manage their finances by tracking income and expenses. This tool provides an intuitive interface for adding transactions, categorizing them, and visualizing financial data through various charts. Users can also download their ledger as an Excel file for offline analysis.
 
 # Features
-Income and Expense Tracking: Easily add and categorize your income and expenses.
+Income and Expense Tracking: Easily add and categorize your income and expenses./
 Dynamic Charts: Visualize your financial data with line charts showing income vs. expenses over time and pie charts categorizing spending.
 Transaction Ledger: View a detailed ledger of all transactions, including the ability to edit entries.
 Excel Download: Export your transaction history as an Excel spreadsheet.
