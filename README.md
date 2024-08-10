@@ -2,6 +2,9 @@
 
 Personal Budget Tracker is a web application designed to help users manage their finances by tracking income and expenses. This tool provides an intuitive interface for adding transactions, categorizing them, and visualizing financial data through various charts. Users can also download their ledger as an Excel file for offline analysis.
 
+## Deployment
+The website is deployed and can be accessed [here](https://revanthmahindra.github.io/Personal-Budget-Tracker/).
+
 ## Features
 
 - **Income and Expense Tracking:** Easily add and categorize your income and expenses.
